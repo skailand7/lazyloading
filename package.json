@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "homepage": "http://skailand7.github.io/lazyloading/",
+    "homepage": "git@github.com:skailand7/lazyloading.git",
     "start": "snowpack dev",
     "build": "snowpack build",
     "format": "prettier --write \"src/**/*.js\"",
