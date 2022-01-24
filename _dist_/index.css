@@ -1,0 +1,9 @@
+@import "../_snowpack/pkg/tailwindcss/dist/base.css";
+@import "../_snowpack/pkg/tailwindcss/dist/components.css";
+@import "../_snowpack/pkg/tailwindcss/dist/utilities.css";
+
+.wrapper {
+  background-color: grey;
+  width: 240px;
+  display: inline-block;
+}
